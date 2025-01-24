@@ -1,5 +1,4 @@
 import React from "react";
-
 const Teams = () => {
     return (
       <>
@@ -70,7 +69,7 @@ const Teams = () => {
             {/* عضو الفريق 1 */}
             <div className="team-member">
               <img src="download.jpeg" alt="John Doe" className="member-photo" />
-              <h3>John Doe</h3>
+              <h3>saba alhrishat</h3>
               <p className="role">Web Developer</p>
               <p className="bio">
                 John is an experienced developer with a passion for creating beautiful
@@ -87,7 +86,7 @@ const Teams = () => {
             </div>
             <div className="team-member">
               <img src="download.jpeg" alt="John Doe" className="member-photo" />
-              <h3>John Doe</h3>
+              <h3>shireen ramadan </h3>
               <p className="role">Web Developer</p>
               <p className="bio">
                 John is an experienced developer with a passion for creating beautiful
@@ -104,7 +103,7 @@ const Teams = () => {
             </div>
             <div className="team-member">
               <img src="download.jpeg" alt="John Doe" className="member-photo" />
-              <h3>John Doe</h3>
+              <h3>buthina</h3>
               <p className="role">Web Developer</p>
               <p className="bio">
                 John is an experienced developer with a passion for creating beautiful
@@ -121,7 +120,7 @@ const Teams = () => {
             </div>
             <div className="team-member">
               <img src="download.jpeg" alt="John Doe" className="member-photo" />
-              <h3>John Doe</h3>
+              <h3>tamara</h3>
               <p className="role">Web Developer</p>
               <p className="bio">
                 John is an experienced developer with a passion for creating beautiful
