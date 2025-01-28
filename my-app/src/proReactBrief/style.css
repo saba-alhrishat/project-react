@@ -16,7 +16,8 @@
     gap: 20px;
   }
   .team-member {
-    background: white;
+    background: #f9b200
+    ;
     border: 1px solid #ddd;
     padding: 20px;
     width: 250px;
@@ -30,18 +31,21 @@
     width: 100%;
     height: auto;
     margin-bottom: 15px;
+    border-radius: 70%;
   }
   .team-member h3 {
     font-size: 1.5em;
     margin: 10px 0;
   }
   .role {
-    color: #555;
+    /* color: #555; */
+    color :#ddd;
     font-style: italic;
   }
   .bio {
     font-size: 0.9em;
-    color: #666;
+    /* color: #666; */
+    color: #f9f9f9;
   }
   .social-links a {
     text-decoration: none;
@@ -54,6 +58,6 @@
 
 
   
-/* login */
+
 
   
